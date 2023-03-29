@@ -16,7 +16,7 @@ def mypage2():
 @app.route('/message', methods=['POST'])
 def message():
     print(request.form)
-    return redirect("/message")
+    return redirect("/mypage/contact")
 
 if __name__ == '__main__':
     app.run(debug=True)
