@@ -1,0 +1,27 @@
+h1 {
+
+  color:silver;
+  background:purple;
+  font-size:30px;
+}
+
+h2 {
+
+  color: purple;
+  font-size:40px;
+}
+
+li {
+  font-size:30px;
+  margin-left: 30px;;
+}
+
+form {
+  margin-top: 40px;
+  margin-left: 30px;
+  color: purple;
+}
+
+textarea {
+  margin-left:50px;
+}
