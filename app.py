@@ -1,3 +1,4 @@
+# I haven't finished yet, just sending before the meeting
 from flask import Flask, render_template, request, redirect
 
 app = Flask(__name__)
